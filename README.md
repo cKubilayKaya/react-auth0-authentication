@@ -1,1 +1,1 @@
-# react-auth0-authentication
+react authentication with auth0 package
